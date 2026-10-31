@@ -23,3 +23,24 @@ During my time at Tencent Music, I received two national patent awards and was p
 I am currently developing **Auralis**, a personal research project I have been exploring over the past two months. It is a proposal for a JEPA-based music world model focused on internal representations in music generation models and the prediction of musical structure.
 
 Contact: [149199879@qq.com](mailto:149199879@qq.com)
+
+
+## Auralis 的研究背景
+
+我很早就关注 Yann LeCun 的研究，也一直在思考一个问题：基于大语言模型和扩散模型的语音、音乐生成路线已经展现出很强的能力，但它们是否会成为多模态智能的最终形态？是否还有其他值得探索的路径？
+
+在关注 JEPA 的过程中，我开始思考能否将它与音乐生成模型结合，探索从音乐模型走向世界模型的可能性。我把这个想法与几位教授以及我曾指导过的博士实习生交流过，他们也认为这个方向值得探讨。过去几个月里，我一直在思考这个课题，但由于工作繁忙，尚未有足够时间亲自实现。
+
+前几天，我借助 AI 梳理了多个技术方案，否决其中一些方向后，逐渐收敛到一个相对简单的设想：在音乐生成模型的中间表示层引入 JEPA。AI 协助整理了技术方案，并草拟过早期代码；当前音频模型接入方案尚未完成实现或训练，也没有实验结果。
+
+Auralis 是我个人发起并持续思考的研究项目。现在把这个初步想法分享出来，希望与对音乐生成、JEPA 和世界模型感兴趣的朋友交流讨论。
+
+## Background on Auralis
+
+I have followed Yann LeCun’s research for a long time and have been considering a related question: language models and diffusion models have shown impressive capabilities in speech and music generation, but are they necessarily the final form of multimodal intelligence? What other paths might be worth exploring?
+
+While following JEPA, I began considering whether it could be combined with music generation models to explore a path toward music world models. I discussed the idea with several professors and doctoral interns I had previously mentored, and they also found the direction interesting. I have been thinking about the problem for the past few months, although work commitments have left me little time to implement it myself.
+
+Recently, I used AI to help explore several technical designs. After setting aside some alternatives, I settled on a relatively simple proposal: introduce JEPA at the intermediate representation layer of a music generation model. AI helped organize the technical design and draft earlier code; the current audio-model integration has not yet been implemented or trained, and there are no experimental results.
+
+Auralis is a personal research project that I initiated and continue to explore. I am sharing this early idea to invite discussion with others interested in music generation, JEPA, and world models.
