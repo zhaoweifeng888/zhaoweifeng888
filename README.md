@@ -8,8 +8,7 @@
 
 在腾讯音乐期间，我曾两次获得国家专利奖，是 MIREX 国际比赛冠军团队成员；主导过与腾讯 AI Lab 联合开展的**琴乐音乐大模型**，以及**低频公益歌单**等项目，探索人工智能与音乐技术在创作、聆听和社会公益中的应用。
 
-目前，我也在探索 **Auralis**：一个基于 JEPA 的音乐世界模型研究构想，关注音乐生成模型的内部表征与音乐结构预测。
-
+目前，我正在研究 **Auralis**，这是我个人在过去两个月里持续探索的研究项目：一个基于 JEPA 的音乐世界模型研究构想，关注音乐生成模型的内部表征与音乐结构预测。
 📧 联系方式：[149199879@qq.com](mailto:149199879@qq.com)
 
 ## English
@@ -20,6 +19,4 @@ I spent 14 years at Tencent Music, where I served as a **T13 Senior Expert** and
 
 During my time at Tencent Music, I received two national patent awards and was part of a championship-winning team at the **MIREX** international competition. I led the **QinYue music foundation model** initiative in collaboration with Tencent AI Lab, as well as projects such as a low-frequency accessibility playlist, exploring applications of AI and music technology in creativity, listening, and social good.
 
-I’m also exploring **Auralis**, a research proposal for a JEPA-based music world model focused on internal representations in music generation models and the prediction of musical structure.
-
-📧 Contact: [149199879@qq.com](mailto:149199879@qq.com)
+II am currently developing **Auralis**, a personal research project I have been exploring over the past two months. It is a proposal for a JEPA-based music world model focused on internal representations in music generation models and the prediction of musical structure.📧 Contact: [149199879@qq.com](mailto:149199879@qq.com)
