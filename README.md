@@ -48,9 +48,9 @@ Auralis is a personal research project that I initiated and continue to explore.
 
 ## 音乐大模型相关经历 | Music Foundation Model Experience
 
-2025 年，我在腾讯音乐期间与腾讯 AI Lab 合作了 **SongBloom** 项目。在此之前，我们还发布过名为**琴乐**的音乐大模型。这些经历也构成了我继续探索音乐生成和音乐世界模型的背景。
+2025 年，我在腾讯音乐期间与腾讯 AI Lab 合作了 **Songbook** 项目。在此之前，我们还发布过名为**琴乐**的音乐大模型。这些经历也构成了我继续探索音乐生成和音乐世界模型的背景。
 
-In 2025, while at Tencent Music, I worked with Tencent AI Lab on **SongBloom**. Before that, we also released a music foundation model called **QinYue (琴乐)**. These experiences inform my continued exploration of music generation and music world models.
+In 2025, while at Tencent Music, I worked with Tencent AI Lab on **Songbook**. Before that, we also released a music foundation model called **QinYue (琴乐)**. These experiences inform my continued exploration of music generation and music world models.
 
 
 ## 音乐与音频项目 | Music and Audio Projects
