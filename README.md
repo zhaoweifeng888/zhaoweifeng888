@@ -51,3 +51,19 @@ Auralis is a personal research project that I initiated and continue to explore.
 2025 年，我在腾讯音乐期间与腾讯 AI Lab 合作了 **SongBloom** 项目。在此之前，我们还发布过名为**琴乐**的音乐大模型。这些经历也构成了我继续探索音乐生成和音乐世界模型的背景。
 
 In 2025, while at Tencent Music, I worked with Tencent AI Lab on **SongBloom**. Before that, we also released a music foundation model called **QinYue (琴乐)**. These experiences inform my continued exploration of music generation and music world models.
+
+
+## 音乐与音频项目 | Music and Audio Projects
+
+以下是我参与或推动过的部分音乐与音频技术项目：
+
+- 听歌识曲 / Music recognition
+- 哼唱识别 / Query-by-humming
+- 全民 K 歌唱歌评分 / WeSing singing assessment
+- 全民 K 歌智能修音 / WeSing intelligent pitch correction
+- 懒人听书语音合成 / Lanren Tingshu speech synthesis
+- AI 力宏 / AI Leehom
+- AI 唱歌 / AI singing
+- 智能曲谱 / Intelligent music transcription and notation
+- 琴乐音乐生成 / QinYue music generation
+- 琴韵歌声合成 / Qinyun singing voice synthesis
